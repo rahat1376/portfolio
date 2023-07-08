@@ -1,0 +1,38 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+}
+.nav-title{
+    color: #181818;
+font-size: 45px;
+font-weight: 800;
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.marry{
+    color: #FD6E0A;
+}
+.orange-btn{
+    background-color: #FD6E0A;
+    border-radius: 5px;
+    color: #FFF;
+    font-size: 20px;
+    border: 0;
+    font-weight: 700px;
+    padding: 10px 25px;
+}
+nav ul li a{
+    text-decoration: none;
+    font-style: none;
+    margin-right: 50px;
+    color: #474747;
+}
+nav li{
+    list-style: none;
+}
+nav >ul{
+    display: flex;
+    align-items: center;
+}
